@@ -1,0 +1,16 @@
+.Hstack {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  width: 200px;
+  height: 200px;
+  left: 50%;
+  top: 50%;
+  margin-left: -50px;
+  margin-top: -50px;
+}
+
+.heart {
+  max-width: 50%;
+  max-height: 50%;
+}
